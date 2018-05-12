@@ -1,0 +1,38 @@
+_repo: Tales-of-Folk-and-Fairies_25913
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 25913-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Pyle, Katharine
+    alias: Pyle, Katherine
+    birthdate: 1863
+    deathdate: 1938
+    gutenberg_agent_id: '1139'
+    url: http://www.gutenberg.org/2009/agents/1139
+    wikipedia: http://en.wikipedia.org/wiki/Katharine_Pyle
+description: ''
+gutenberg_issued: '2008-06-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25913'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Fairy tales'
+- !lcc 'GR'
+- !lcsh 'Folklore'
+tableOfContents: The Meester Stoorworm, A Story from Scotland -- Jean Malin and the
+  Bull-man, A Louisiana Tale -- The Widow's Son, A Scandinavian Tale -- The Wise Girl,
+  A Serbian Story -- The History of Ali Cogia, From the Arabian Nights -- Oh! A Cossack
+  Story -- The Talking Eggs, A Story from Louisiana -- The Frog Princess, A Russian
+  Story -- The Magic Turban, the Magic Sword and the Magic Carpet, A Persian Story
+  -- The Three Silver Citrons, A Persian Story -- The Magic Pipe, A Norse Tale --
+  The Triumph of Truth, A Hindu Story -- Life's Secret, A Story of Bengal -- Dame
+  Pridgett and the Fairies.
+title: Tales of Folk and Fairies
+url: http://www.gutenberg.org/ebooks/25913
