@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1139
     wikipedia: http://en.wikipedia.org/wiki/Katharine_Pyle
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25913#Tales-of-Folk-and-Fairies
 gutenberg_issued: '2008-06-27'
 gutenberg_type: Text
 identifiers:
